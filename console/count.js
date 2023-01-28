@@ -1,0 +1,6 @@
+console.count('james')
+console.count('js')
+console.count('james')
+console.count('js')
+console.count('js')
+console.count()
