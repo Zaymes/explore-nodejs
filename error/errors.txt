@@ -1,0 +1,13 @@
+1. Standard js errors
+	<URI> - when URI handling function misused
+	<Eval> - call to eval() fails
+	<Type> - arg provided is not of allowed type
+	<Range> - arg provided not within range of accepted value
+	<Syntax>, <Reference> - nor defined
+2. System Errors
+	generated when program violate some constriants of os
+	
+	props of sys errors
+	error.code, error.port, error.adress, error.path, erro.syscall. error.errno
+3. User-Specified Error
+4. Assertion errors: raised by assert, special case, when exceptional logica violation detected. 
